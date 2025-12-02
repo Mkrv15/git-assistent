@@ -98,3 +98,6 @@ $ rm -rf .git # удалили подпапку .git
 - название текущей ветки: On branch master или On branch main;
 - сообщение о том, что в репозитории ещё нет коммитов: No commits yet;
 - сообщение, которое говорит: «чтобы что-нибудь закоммитить (то есть зафиксировать), нужно сначала это создать» — nothing to commit (create/copy files and use "git add" to track).
+
+
+
